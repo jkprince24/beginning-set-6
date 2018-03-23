@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
-int main(void) 
+int main() 
 {
+clrscr();
 int array[20];
 int n,i,max=array[0];
 printf("enter the number of elements:");
