@@ -13,6 +13,7 @@ x=y;
 y=temp;
 printf("\n after swapping:");
 printf("\nx=%d",x);
-printf("\ny=%d",y);
+printf("\ny=%d",y); 
+getch();
 return 0;
 }
